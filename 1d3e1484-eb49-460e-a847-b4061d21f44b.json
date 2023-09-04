@@ -20,7 +20,7 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "crazy knigh tutorial",
+    "name": "CrazyKnighTutorial",
     "description": "A game created by inspiration of a gdevelop youtube tutorial playlist. ",
     "author": "GDevelopTutorial",
     "windowWidth": 1280,
@@ -72,7 +72,7 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/95a29ad64dac1d147725f9a7e6e28396b918fa3b06113400dac1abd5c14dde47_tiled_Castles Background.png",
+        "file": "assets/tiled_Castles Background.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Castles Background.png",
@@ -85,7 +85,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Characters/793c7babbfebb66bff967580b833f4146c71283d53687259445a93733dac43fb_Big Zombie_Idle_1.png",
+        "file": "assets/Big Zombie_Idle_1.png",
         "kind": "image",
         "metadata": "",
         "name": "Big Zombie_Idle_1.png",
@@ -98,7 +98,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/71398f883d26c8a10aab174655dd517ddfedeb1599a3ae1afdc01f4754133ff1-castle bridge.png",
+        "file": "assets/castle bridge.png",
         "kind": "image",
         "metadata": "",
         "name": "castle bridge.png",
@@ -111,7 +111,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/ada81243ccd96ee5545f3c19611212da1721e525c4a00235acbf5bfc2888466d-bridge.png",
+        "file": "assets/bridge.png",
         "kind": "image",
         "metadata": "",
         "name": "bridge.png",
@@ -124,7 +124,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/61466eb576f93e20c39e92b1344e2f674ddf4c5ca53a501393e3a6f604fd8ffe-Idle.png",
+        "file": "assets/Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Idle.png",
@@ -137,7 +137,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/d4004b3df88a2415328a4f616075c64c1654b0689d2abcc3de2140074f6a809c-Knight_01__IDLE_001.png",
+        "file": "assets/Knight_01__IDLE_001.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_001.png",
@@ -150,7 +150,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/e3a58045088487e6a8c822c8835898f80f61ba543994e5c96e978ec7d7930baa-Knight_02__IDLE_009.png",
+        "file": "assets/Knight_02__IDLE_009.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_009.png",
@@ -163,7 +163,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/b2e5738d249a638df2ac0b5d244cef003e3510a9d4dcd114b2334ea8a6bafcd8-Knight_02__IDLE_008.png",
+        "file": "assets/Knight_02__IDLE_008.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_008.png",
@@ -176,7 +176,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/f581dcd8d02905b032d7f85060a62673ab730c7e39476da6564b8bbf1f959eff-Knight_02__IDLE_007.png",
+        "file": "assets/Knight_02__IDLE_007.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_007.png",
@@ -189,7 +189,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/212023d9b11e3c14cb10c5683ab68235512ec65ec3716151cc84bcdc826a7895-Knight_02__IDLE_006.png",
+        "file": "assets/Knight_02__IDLE_006.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_006.png",
@@ -202,7 +202,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/77bccb18fff20cc3d4dc5651442c98557ff8c7a219078412cb49aca165533d0c-Knight_02__IDLE_005.png",
+        "file": "assets/Knight_02__IDLE_005.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_005.png",
@@ -215,7 +215,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/57d790633cb7721fa94e1dc61a32b8d41190ef011ece752a1f92bcbcb6016023-Knight_02__IDLE_004.png",
+        "file": "assets/Knight_02__IDLE_004.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_004.png",
@@ -228,7 +228,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/5286a63b32ecd242d00752f6b4e4486b6d3c81d8fbd7821e6f37d1dff1e74b05-Knight_02__IDLE_003.png",
+        "file": "assets/Knight_02__IDLE_003.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_003.png",
@@ -241,7 +241,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/bbeb16a3878a55c1ed6386fa9a8ed52b8646b737a76d21f213f8fadd41d1d416-Knight_02__IDLE_002.png",
+        "file": "assets/Knight_02__IDLE_002.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_002.png",
@@ -254,7 +254,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/ebfe6ad38dc3c46702d9839df99f426d7878d341f20869e1b5d8d85c75bbaeb8-Knight_02__IDLE_001.png",
+        "file": "assets/Knight_02__IDLE_001.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_001.png",
@@ -267,7 +267,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/8685098715f2ac4e9896c031777c0ee04c7b7aa63fb57b980b51ff21c31992e6-Knight_02__IDLE_000.png",
+        "file": "assets/Knight_02__IDLE_000.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__IDLE_000.png",
@@ -280,7 +280,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/9cdc505a871b414ccfedabd3d03c5ff2bdbeec49516705eedc5934dbf4376c33-Knight_02__WALK_009.png",
+        "file": "assets/Knight_02__WALK_009.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_009.png",
@@ -293,7 +293,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/e3fe67213508f0c6d449bef8aef14fec8f0f2640dfe564b6482bb7ac220a8267-Knight_02__WALK_008.png",
+        "file": "assets/Knight_02__WALK_008.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_008.png",
@@ -306,7 +306,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/8e060988765ac8238fc78908ee1857e95fb5f90134c9db81c1c365bcd41a5522-Knight_02__WALK_007.png",
+        "file": "assets/Knight_02__WALK_007.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_007.png",
@@ -319,7 +319,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/dfdb779a668dd9561860b91a7fbfefb30a35c889b7a1c0e5a9afc1b14b26a24b-Knight_02__WALK_006.png",
+        "file": "assets/Knight_02__WALK_006.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_006.png",
@@ -332,7 +332,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/d1f613e4bb55312e7054fb781367f6a88f8df81bf0239157b930b751912a22a3-Knight_02__WALK_005.png",
+        "file": "assets/Knight_02__WALK_005.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_005.png",
@@ -345,7 +345,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/8d63dad940e9e5e810a9d0aaeb93d3636726625dd62722445f1b5fa0b6f23f04-Knight_02__WALK_004.png",
+        "file": "assets/Knight_02__WALK_004.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_004.png",
@@ -358,7 +358,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/facdb0aa166f57762e14c341c416b0b7403a2a4961154246be7f33f025a6f2bd-Knight_02__WALK_003.png",
+        "file": "assets/Knight_02__WALK_003.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_003.png",
@@ -371,7 +371,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/209dbec972ed9e1396459a21e916a77b18bac24cea03ccf6e13e4a81eef0cd5d-Knight_02__WALK_002.png",
+        "file": "assets/Knight_02__WALK_002.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_002.png",
@@ -384,7 +384,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/5c0609508dc0422be576598981aa5f4537f5f6bc73fb01b4e831dce534989321-Knight_02__WALK_001.png",
+        "file": "assets/Knight_02__WALK_001.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_001.png",
@@ -397,7 +397,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/09a511debf68718d9dbe7bcc5f1dc2b54ef899865bd6a9c1c5cc20172887345d-Knight_02__WALK_000.png",
+        "file": "assets/Knight_02__WALK_000.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_02__WALK_000.png",
@@ -410,7 +410,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/df68eec410894bc4608b4d25617cbf13f278f36a9b0825fd2000f7bf56db297b-Knight_01__IDLE_009.png",
+        "file": "assets/Knight_01__IDLE_009.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_009.png",
@@ -423,7 +423,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/810674a50bf8fae4dfe4841861b01489a44d2e5e741cd3011d7accdec2d3141b-Knight_01__IDLE_008.png",
+        "file": "assets/Knight_01__IDLE_008.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_008.png",
@@ -436,7 +436,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/d009414750365ea2dfc7b16c8174c188fa8d91fcc6fb15145de33ebd129f399e-Knight_01__IDLE_007.png",
+        "file": "assets/Knight_01__IDLE_007.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_007.png",
@@ -449,7 +449,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/ac75f3f6b41e14a0874235417e4e7a8a81a547a91aee1abf86f76e877cb3332e-Knight_01__IDLE_006.png",
+        "file": "assets/Knight_01__IDLE_006.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_006.png",
@@ -462,7 +462,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/11b45c51cdddb152dbf9d0049ca4dd46d27d3a5533c303df2c2fb84f73d991cd-Knight_01__IDLE_005.png",
+        "file": "assets/Knight_01__IDLE_005.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_005.png",
@@ -475,7 +475,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/813f98c923ec2fa4c06d13e22220e98dadd4ccd00e606929ed9e3d201b80d815-Knight_01__IDLE_004.png",
+        "file": "assets/Knight_01__IDLE_004.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_004.png",
@@ -488,7 +488,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/be65bba8666ec34e2480f7e2b0956dd65a739d422f733e3f36ba8814a23367f7-Knight_01__IDLE_003.png",
+        "file": "assets/Knight_01__IDLE_003.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_003.png",
@@ -501,7 +501,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/9587d1c9e652b33181862d15312a479d095b3e2a81123099ade10058df78d01f-Knight_01__IDLE_002.png",
+        "file": "assets/Knight_01__IDLE_002.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_002.png",
@@ -514,7 +514,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/59a79f33f5a48a15c950a61f1ba45bf61331ba5013589e573c87859741f82749-Knight_01__IDLE_000.png",
+        "file": "assets/Knight_01__IDLE_000.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__IDLE_000.png",
@@ -527,7 +527,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/0949cbe6a14b227840124eda228ed56f29b58464ca905e535b4031d32ebd0c59-Knight_01__WALK_009.png",
+        "file": "assets/Knight_01__WALK_009.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_009.png",
@@ -540,7 +540,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/10c4c2053ace33b94c9c078bbc3654a9ab28abcd57f0d6ced6361e67aa6200d3-Knight_01__WALK_008.png",
+        "file": "assets/Knight_01__WALK_008.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_008.png",
@@ -553,7 +553,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/b00397722222585bf2a4f59765ae28f566f83c6ab32fbf7e6eb14e873fc379ad-Knight_01__WALK_007.png",
+        "file": "assets/Knight_01__WALK_007.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_007.png",
@@ -566,7 +566,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/ba4620fe20c85fcabccea730453efa59ed8f6e60edab1e6a56c605c34b9cd77e-Knight_01__WALK_006.png",
+        "file": "assets/Knight_01__WALK_006.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_006.png",
@@ -579,7 +579,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/91ec4d13535c4be478ff25616b0fcc3a8d519600be1e054c7e0d27cd48873383-Knight_01__WALK_005.png",
+        "file": "assets/Knight_01__WALK_005.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_005.png",
@@ -592,7 +592,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/3f7a1e37aeb4cd449723deafed177a54bef47e5e84ac44d32a7b4a23d1713fe5-Knight_01__WALK_004.png",
+        "file": "assets/Knight_01__WALK_004.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_004.png",
@@ -605,7 +605,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/4e57ae592e3927328a41bf0cdb0f4e28b1b84a5cda2c9e16f4e1c6cb664beb79-Knight_01__WALK_003.png",
+        "file": "assets/Knight_01__WALK_003.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_003.png",
@@ -618,7 +618,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/facdf360d53ba1cbe1eccb68c4f0dfc2729cc795a5bc804274744d99e79e2019-Knight_01__WALK_002.png",
+        "file": "assets/Knight_01__WALK_002.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_002.png",
@@ -631,7 +631,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/83afd1cc4513eeef46b15e6014f42ba6020ef2f1dee1644aff542f4a18a6061b-Knight_01__WALK_001.png",
+        "file": "assets/Knight_01__WALK_001.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_001.png",
@@ -644,7 +644,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/68ea7001c7579d7a2185d47d27b776dd249d8b91edae3367f23aafa8fe38b682-Knight_01__WALK_000.png",
+        "file": "assets/Knight_01__WALK_000.png",
         "kind": "image",
         "metadata": "",
         "name": "Knight_01__WALK_000.png",
@@ -657,7 +657,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Line Light/1d54af0356de71ef8851aad5d41a433d032164b6e1f2a9aa9151cd0bbef5c678_Start button.png",
+        "file": "assets/Start button.png",
         "kind": "image",
         "metadata": "",
         "name": "Start button.png",
@@ -670,7 +670,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/5a18fbf7eb242513100d087fac4792b0b48e67ba4ddc5479b1955e733caba48a_Full moon.png",
+        "file": "assets/Full moon.png",
         "kind": "image",
         "metadata": "",
         "name": "Full moon.png",
@@ -683,7 +683,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/4900d4c6b7ee981ba0940113397f6a34062bc93478ee02329841528ce5738fbb-game_background_4.png",
+        "file": "assets/game_background_4.png",
         "kind": "image",
         "metadata": "",
         "name": "game_background_4.png",
@@ -696,7 +696,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
+        "file": "assets/cloud 1.png",
         "kind": "image",
         "metadata": "",
         "name": "cloud 1.png",
@@ -709,7 +709,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/0a45d3790462fca45aa442beeb5b2a72bb82c1447d8a1e5a7c9a6fa8b987ba7c_Select button.png",
+        "file": "assets/Select button.png",
         "kind": "image",
         "metadata": "",
         "name": "Select button.png",
@@ -722,7 +722,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/16e804dda11f82902d6b7469420d7b3b81d68ef00af71783070dd284114e8cdc_On Screen Controls Button_Hovered.png",
+        "file": "assets/On Screen Controls Button_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "On Screen Controls Button_Hovered.png",
@@ -735,7 +735,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/174644b98156cc55e10a4eb991aebb06e0a2c9f98915abb1422cababc3124de3_On Screen Controls Button_Idle.png",
+        "file": "assets/On Screen Controls Button_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "On Screen Controls Button_Idle.png",
@@ -748,7 +748,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5a44f1cb97ef7da59c97179346b71d3f5b913af0208795784707c062fc20749f_On Screen Controls Button_Pressed.png",
+        "file": "assets/On Screen Controls Button_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "On Screen Controls Button_Pressed.png",
@@ -760,7 +760,7 @@
         }
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+        "file": "assets/Roboto-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "Roboto-Regular.ttf",
@@ -772,7 +772,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/fc8a8165a13272e7deb167d57a2fd270590f4e9a522883d93d085d80f4e2c30c-TiledSpriteTree.png",
+        "file": "assets/TiledSpriteTree.png",
         "kind": "image",
         "metadata": "",
         "name": "TiledSpriteTree.png",
@@ -785,7 +785,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Particles/50be691a42be33a96faa72d0fc17e0463403326c605888adb799bbb2b02e3fd8_ExplosionTexture1.png",
+        "file": "assets/ExplosionTexture1.png",
         "kind": "image",
         "metadata": "",
         "name": "ExplosionTexture1.png",
@@ -798,7 +798,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Particles/64a424eeec46f355f121c7c3f25a37d39954b746c504a496642c49181467359c_ExplosionFog-Texture-2.png",
+        "file": "assets/ExplosionFog-Texture-2.png",
         "kind": "image",
         "metadata": "",
         "name": "ExplosionFog-Texture-2.png",
@@ -811,7 +811,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Particles/59f79e94532692d7af37ad256af2fc5e3e4de06e178f51de298704cc5eb449b2_Lightning-Texture-1.png",
+        "file": "assets/Lightning-Texture-1.png",
         "kind": "image",
         "metadata": "",
         "name": "Lightning-Texture-1.png",
@@ -823,7 +823,7 @@
         }
       },
       {
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/80b449276944115220f446b1c0f2f86c6736baf3fc0991b8c06bb86b7e9cec56-WhatsApp Video 2023-08-16 at 11.23.35.mp4",
+        "file": "assets/WhatsApp Video 2023-08-16 at 11.23.35.mp4",
         "kind": "video",
         "metadata": "",
         "name": "WhatsApp Video 2023-08-16 at 11.23.35.mp4",
@@ -834,7 +834,7 @@
         }
       },
       {
-        "file": "https://project-resources.gdevelop.io/1d3e1484-eb49-460e-a847-b4061d21f44b/resources/8500b97691f6ecca4571183e326b1aa8d62254067a74610d479a0878fea234e8-Screencast from 16-08-2023 11-19-06.webm",
+        "file": "assets/Screencast from 16-08-2023 11-19-06.webm",
         "kind": "video",
         "metadata": "",
         "name": "Screencast from 16-08-2023 11:19:06.webm",
@@ -846,7 +846,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/40832527439da97fe46056f6934206f3d943568e68a955f6ff29dbe882a1c083_Blue bar.png",
+        "file": "assets/Blue bar.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue bar.png",
@@ -859,7 +859,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Interface/PX UI Basic/96409107ae77918bbcde7a715c09e12b1b6c8ef16524b06b0d162955f1bd1a27_Red bar.png",
+        "file": "assets/Red bar.png",
         "kind": "image",
         "metadata": "",
         "name": "Red bar.png",
@@ -872,7 +872,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Rolling Ball Pack/Balls/9e26a2e40eaf354f74e07f0d078b64f5f12856d9fe986087e78b8ff3acf93831_Small Red Ball.png",
+        "file": "assets/Small Red Ball.png",
         "kind": "image",
         "metadata": "",
         "name": "Small Red Ball.png",
@@ -885,7 +885,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Spiked Ball/96bd465ee70a589c2dfb295fbeac097f9ec14f2c39e26d443ca98b7d3a91efc5_Spiked Ball.png",
+        "file": "assets/Spiked Ball.png",
         "kind": "image",
         "metadata": "",
         "name": "Spiked Ball.png",
@@ -898,7 +898,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/243af986cfe00f54732f8c0800fb77bc516087c6bc96893f0f83e5dacbca0f13_Bronze bar background.png",
+        "file": "assets/Bronze bar background.png",
         "kind": "image",
         "metadata": "",
         "name": "Bronze bar background.png",
@@ -911,7 +911,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f8e5d88f8b377f182d5d42adf0bf9bc5f94034ac24c410f07ba27c46cda841c3_Metal Bar Border.png",
+        "file": "assets/Metal Bar Border.png",
         "kind": "image",
         "metadata": "",
         "name": "Metal Bar Border.png",
@@ -924,7 +924,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/9c836518da4f93f1a442e4beaa4023bdde907296b1a03f5562a73693fac0f778_tiled_Forest Background.png",
+        "file": "assets/tiled_Forest Background.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Forest Background.png",
@@ -937,7 +937,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/37288d30c2e013a34e415fb35fffd2f7267ebd031c4380927485d7461708f810_Blue Button With Shadow_Hovered.png",
+        "file": "assets/Blue Button With Shadow_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue Button With Shadow_Hovered.png",
@@ -950,7 +950,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/22930cdc6b25260eef3817f1687842974261b68c84ec2a13d7f32b1a2985240f_Blue Button With Shadow_Idle.png",
+        "file": "assets/Blue Button With Shadow_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue Button With Shadow_Idle.png",
@@ -963,7 +963,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/26efbc7581c47b884f5335aa7581999a75b3062aa24062a1a91955e334826d21_Blue Button With Shadow_Pressed.png",
+        "file": "assets/Blue Button With Shadow_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Blue Button With Shadow_Pressed.png",
@@ -975,7 +975,7 @@
         }
       },
       {
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
+        "file": "assets/CantoraOne-Regular.ttf",
         "kind": "font",
         "metadata": "",
         "name": "CantoraOne-Regular.ttf",
@@ -987,7 +987,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/71ee2c8d8b72808c7f084252cd36c80c44bc07655a3729e5fe7459c634007e8a_Red Button With Shadow_Hovered.png",
+        "file": "assets/Red Button With Shadow_Hovered.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Hovered.png",
@@ -1000,7 +1000,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6c6bf020fb86d99a9ecc993f8b90064d73d757bc2408050cf353c84bc36f6be2_Red Button With Shadow_Idle.png",
+        "file": "assets/Red Button With Shadow_Idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Idle.png",
@@ -1013,7 +1013,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b9ce526450d48adedb6875043465ae168fff1f6b01dd1ff7f43b7e7c1568cc21_Red Button With Shadow_Pressed.png",
+        "file": "assets/Red Button With Shadow_Pressed.png",
         "kind": "image",
         "metadata": "",
         "name": "Red Button With Shadow_Pressed.png",
